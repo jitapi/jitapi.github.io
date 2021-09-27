@@ -1,8 +1,7 @@
 ---
 title: "To be updated"
 description: "'This blog will be updated soon"
-picture: blog2.jpg
-
+picture: slide2.jpg
 label_default: "alice" 
 label_primary: "story"
 label_success: 
